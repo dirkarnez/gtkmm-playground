@@ -1,5 +1,7 @@
-portaudio-playground
-====================
+gtkmm-playground
+================
+### Tutorials
+- [horizon-eda/horizon: Horizon is a free EDA package](https://github.com/horizon-eda/horizon)
 
-### Using
-- [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
+### Notes
+- [dirkarnez/gtkmm-prebuilt](https://github.com/dirkarnez/gtkmm-prebuilt) to be made to get rid of linux shell emulation
